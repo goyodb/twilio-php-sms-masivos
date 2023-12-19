@@ -1,0 +1,18 @@
+{
+    "name": "user/twilio-php-sms-masivos",
+    "autoload": {
+        "psr-4": {
+            "User\\TwilioPhpSmsMasivos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "goyodb",
+            "email": "josegrondonl1991@gmail.com"
+        }
+    ],
+    "require": {
+        "twilio/sdk": "^7.12",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}

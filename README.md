@@ -16,7 +16,7 @@ Este proyecto es una aplicación PHP simple que utiliza la API de Twilio para en
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/username/proyecto.git
+    git clone https://github.com/goyodb/twilio-php-sms-masivos
     ```
 2. Navega al directorio del proyecto:
     ```bash
